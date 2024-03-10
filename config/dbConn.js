@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const DATABASE_URI = 'mongodb+srv://adildevmate:adil1122@cluster1.e24qfkj.mongodb.net/'
+const DATABASE_URI = 'mongodb+srv://bakeshopadmin:bakeshoppassword123@cluster0.qzdcnro.mongodb.net/BakeshopDB?retryWrites=true&w=majority&appName=Cluster0'
 
 const connectDB = async () => {
     try {
