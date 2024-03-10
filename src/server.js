@@ -22,7 +22,7 @@ const app = express();
 app.use(express.json());
 app.use(cors({
     credentials:true,
-    origin: ['http://localhost:3000'],
+    origin: ['http://localhost:3000', 'https://65ed9b2121e97b00089752fa--fluffy-bonbon-909479.netlify.app'],
 })
 );
 
