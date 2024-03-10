@@ -115,7 +115,7 @@ export const sample_foods = [
         cookTime: '150',
         price: 120,
         ingredients: ['Whole Roasted Pig'],
-        imageUrl: 'food-13.png',
+        imageUrl: 'food-13.jpg',
         tags: ['Lunch', 'Hot Food'],
     },
     {
@@ -124,7 +124,7 @@ export const sample_foods = [
         cookTime: '20',
         price: 25,
         ingredients: ['Pork and Beef', 'Tamarind Soup', 'Fish Sauce'],
-        imageUrl: 'food-14.jpg',
+        imageUrl: 'food-14.png',
         tags: ['Lunch', 'Hot Food'],
     }
 ];
